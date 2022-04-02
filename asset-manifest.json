@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Renyi-Entropy-Demo/static/css/main.011facd7.css",
+    "main.js": "/Renyi-Entropy-Demo/static/js/main.9650b13d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Renyi-Entropy-Demo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Renyi-Entropy-Demo/index.html",
+    "main.011facd7.css.map": "/Renyi-Entropy-Demo/static/css/main.011facd7.css.map",
+    "main.9650b13d.js.map": "/Renyi-Entropy-Demo/static/js/main.9650b13d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Renyi-Entropy-Demo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.011facd7.css",
+    "static/js/main.9650b13d.js"
+  ]
+}
